@@ -10,8 +10,11 @@ h1 {
     background-color: greenyellow;
     opacity: 0.7;
 }
-
+div {
+    margin:auto;
+    padding: 5px;
+}
 p {
-    font-size: 6vw;
+    font-size: 4vw;
     color: blueviolet;
 }
