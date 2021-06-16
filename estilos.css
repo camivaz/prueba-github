@@ -1,4 +1,9 @@
+h1 {
+    font-size: 8vw;
+    color: aqua;
+}   
+
 p {
-    font-size: medium;
+    font-size: 6vw;
     color: blueviolet;
 }
