@@ -2,6 +2,14 @@ h1 {
     font-size: 8vw;
     color: aqua;
 }   
+.cajaRosa {
+    background-color: palevioletred;
+    opacity: 0.7;
+}
+.cajaVerde {
+    background-color: greenyellow;
+    opacity: 0.7;
+}
 
 p {
     font-size: 6vw;
